@@ -1,0 +1,17 @@
+body {
+    background-color: #000000;
+}
+
+#container {
+    width: 100%;
+    height:100%;
+    font-family: arial;
+    font-size: 60px;
+    color: #ffffff;
+    text-align: center;
+    position:absolute;
+    left:50%;
+    top:50%;
+    margin-left:-50%;
+    margin-top:-50%;                
+}
